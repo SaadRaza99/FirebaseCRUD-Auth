@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidTaskApplication</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email_address_not_valid">Please enter valid email address</string>
+    <string name="password_not_valid">Please enter password</string>
+    <string name="password_character_count_error">Password must be atleast 6 characters</string>
+    <string name="password_not_matched">Password not matched</string>
+    <string name="you_are_unauthorised">You are unauthorised</string>
+    <string name="recover">Recover</string>
+</resources>

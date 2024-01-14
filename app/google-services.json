@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "736763904894",
+    "firebase_url": "https://test1-71163-default-rtdb.firebaseio.com",
+    "project_id": "test1-71163",
+    "storage_bucket": "test1-71163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736763904894:android:8e57127e2b864b0591e92f",
+        "android_client_info": {
+          "package_name": "com.example.androidtaskapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa97IL8EjFsk0qgX-FYMxBkds2FOgXTO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
